@@ -23,6 +23,7 @@ namespace sysup
                 {
                     switch (arg)
                     {
+			//THIS IS TEMPORARY
                         case "/upgrade":
                             try
                             {
